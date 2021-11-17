@@ -83,4 +83,4 @@ div {
 
 4. What other operations can you add to the calculator? If you have time, implement them. If you don't have time, but have some ideas, add comments to your code about what you'd like to add. How might you implement them? Is your code friendly to adding in new operations if another developer came in to add something to your code?
 
-5. Can you save the results somewhere? Look into `loca
+5. Can you save the results somewhere? Look into `localStorage`
